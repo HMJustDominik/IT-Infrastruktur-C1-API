@@ -10,7 +10,8 @@ Ablauf der in dem Paper beschrieben API.\
   Schritt 4: Ergebnis als JSON + PDF speichern \
 \
 ## Installation\
-    1. API.py kopieren und in ein neues Python Projekt einfügen.\
-    2. Auf Fehlermeldung klicken und alle nötigen Dinge importieren.\ 
-    3. Aktuelles File ausführen. \
+    1. API.py kopieren und in ein neues Python Projekt einfügen.
+    2. Auf Fehlermeldung klicken und alle nötigen Dinge importieren.
+    3. API/NewsAPI.org key einfügen. Diese schicke ich Ihnen gerne auf Nachfrage per Mail)
+    3. API2.py ausführen. 
 Im Anschluss werden alle nötigen Dateien generiert und die OpenAI API ausgeführt.\
